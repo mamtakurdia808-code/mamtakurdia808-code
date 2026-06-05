@@ -153,7 +153,7 @@ Full-Stack Developer with hands-on experience in developing and maintaining mode
 
 ## 📲 CONNECT WITH ME
 
-- LinkedIn: [www.linkedin.com/in/mamta-kurdia-11b374373]
+- LinkedIn: [www.linkedin.com/in/mamta-kurdia808]
 - GitHub: [https://github.com/mamtakurdia808-code)]
 - Email: [mamtakurdia808@gmail.com]
 
