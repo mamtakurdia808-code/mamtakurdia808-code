@@ -9,7 +9,7 @@
 
 ## 👨‍💻 PROFESSIONAL SUMMARY
 
-Full-Stack Developer with hands-on experience in developing and maintaining modern web applications using React.js, Node.js and Express.js. Experienced in REST API development, JWT authentication, database management, third-party integrations, and application troubleshooting. Strong problem-solving abilities with a passion for building efficient, scalable, and user-centric software solutions.
+Full-Stack Developer with hands-on experience in developing and maintaining modern web applications using React.js, Node.js and Express.js. Experienced in REST API development, JWT authentication, database management and application troubleshooting. Strong problem-solving abilities with a passion for building efficient, scalable, and user-centric software solutions.
 
 ---
 
