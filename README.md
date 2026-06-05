@@ -146,20 +146,12 @@ Full-Stack Developer with hands-on experience in developing and maintaining mode
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamtakurdia808-code&show_icons=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamtakurdia808-code" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamtakurdia808-code&layout=compact" />
 </p>
 
 ---
 
-## 📫 CONNECT WITH ME
+## 📲 CONNECT WITH ME
 
 - LinkedIn: [www.linkedin.com/in/mamta-kurdia-11b374373]
 - GitHub: [https://github.com/mamtakurdia808-code)]
