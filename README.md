@@ -95,13 +95,12 @@ Full-Stack Developer with hands-on experience in developing and maintaining mode
 
 ### Software Development Intern
 
-**Technology Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Git, GitHub
+**Technology Stack:** React.js, Node.js, Express.js, JWT, Git, GitHub
 
 - Developed and maintained frontend and backend application modules.
 - Built responsive interfaces using React.js and Material UI.
 - Designed and integrated RESTful APIs.
 - Implemented JWT-based authentication and authorization.
-- Managed MongoDB database operations and data handling.
 - Integrated Telegram-based functionalities and automation workflows.
 - Diagnosed and resolved frontend and backend issues.
 - Collaborated using Git and GitHub version control workflows.
