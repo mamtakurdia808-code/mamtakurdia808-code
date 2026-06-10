@@ -7,13 +7,13 @@
 
 ---
 
-## 👨‍💻 PROFESSIONAL SUMMARY
+## PROFESSIONAL SUMMARY
 
 Full-Stack Developer with hands-on experience in developing and maintaining modern web applications using React.js, Node.js and Express.js. Experienced in REST API development, JWT authentication, database management, third-party integrations, and application troubleshooting. Strong problem-solving abilities with a passion for building efficient, scalable, and user-centric software solutions.
 
 ---
 
-## 🎓 EDUCATION
+## EDUCATION
 
 ### Bachelor of Computer Applications (BCA)
 **Pillai College of Arts Commerce and Science** Mumbai University | Panvel | Maharashtra, India
@@ -22,7 +22,7 @@ Full-Stack Developer with hands-on experience in developing and maintaining mode
 
 ---
 
-## 💻 TECHNICAL COMPETENCIES
+## TECHNICAL COMPETENCIES
 
 ### Frontend Development
 
@@ -53,7 +53,7 @@ Full-Stack Developer with hands-on experience in developing and maintaining mode
 
 ---
 
-## 🗄️ DATABASE TECHNOLOGIES
+## DATABASE TECHNOLOGIES
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
@@ -91,7 +91,7 @@ Full-Stack Developer with hands-on experience in developing and maintaining mode
 
 ---
 
-## 💼 PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 ### Software Development Intern
 
@@ -108,7 +108,7 @@ Full-Stack Developer with hands-on experience in developing and maintaining mode
 
 ---
 
-## 🚀 PROJECTS
+## PROJECTS
 
 ### Personal Portfolio Website
 **Tech Stack:** HTML5 • CSS3 • JavaScript
@@ -134,7 +134,7 @@ Full-Stack Developer with hands-on experience in developing and maintaining mode
 🔗 Live Demo: [(https://product-website-zeta.vercel.app/)]
 🔗 GitHub: [https://github.com/mamtakurdia808-code/Product-Website]
 
-## 🌱 CURRENT FOCUS
+## CURRENT FOCUS
 
 - Full-Stack Web Development
 - Backend Architecture
@@ -160,12 +160,12 @@ Full-Stack Developer with hands-on experience in developing and maintaining mode
 
 ---
 
-## 📫 CONNECT WITH ME
+## CONNECT WITH ME
 
-- LinkedIn: [www.linkedin.com/in/mamta-kurdia-11b374373]
+- LinkedIn: {www.linkedin.com/in/mamta-kurdia808]
 - GitHub: [https://github.com/mamtakurdia808-code)]
 - Email: [mamtakurdia808@gmail.com]
 
 ---
 
-⭐ *Always learning, building, and improving through code.*
+ *Always learning, building, and improving through code.*
