@@ -110,16 +110,37 @@ Full-Stack Developer with hands-on experience in developing and maintaining mode
 
 ## PROJECTS
 
-### Personal Portfolio Website
-**Tech Stack:** HTML5 • CSS3 • JavaScript
+## 🌐 Developer Portfolio
 
-- Designed and developed a personal portfolio website to showcase skills, projects, and achievements.
-- Created a fully responsive user interface for desktop, tablet, and mobile devices.
-- Implemented interactive sections including About Me, Skills, Projects, and Contact Information.
-- Focused on clean design, accessibility, and user experience.
+**Tech Stack:** React • Vite • JavaScript • HTML5 • CSS3 • Framer Motion • React Icons
 
-🔗 Live Demo: [https://portfolio-taupe-delta-51.vercel.app/]
-🔗 GitHub: [(https://github.com/mamtakurdia808-code/Portfolio)]
+- Designed and developed a modern, fully responsive personal portfolio to showcase my skills, projects, and professional journey.
+- Built reusable React components with a clean and scalable project structure using Vite.
+- Implemented smooth scrolling, interactive animations, and intuitive navigation for an engaging user experience.
+- Showcased featured projects, technical skills, education, and contact information in a visually appealing layout.
+- Optimized for performance, responsiveness, and accessibility across desktop, tablet, and mobile devices.
+- Deployed the application on Vercel for fast and reliable hosting.
+
+🔗 **Live Demo:** https://mamtakurdia-portfolio.vercel.app
+🔗 **GitHub:** https://github.com/mamtakurdia808-code/MyPortfolio
+
+---
+
+## 📄 ResumeAI – AI Resume Builder & ATS Resume Checker
+
+**Tech Stack:** React • Vite • Node.js • Express.js • MongoDB • JWT • Cloudinary • Groq AI • HTML5 • CSS3 • JavaScript
+
+- Developed a full-stack AI-powered resume builder that enables users to create, edit, manage, and download professional resumes.
+- Integrated AI using Groq to provide intelligent content suggestions and perform ATS-friendly resume analysis with actionable feedback.
+- Implemented secure user authentication and authorization using JWT to protect user data and personalize the experience.
+- Built dynamic resume templates with real-time preview and PDF download functionality.
+- Enabled image uploads and cloud storage using Cloudinary for profile pictures and resume assets.
+- Designed RESTful APIs with Express.js and MongoDB for efficient data management and seamless communication between the frontend and backend.
+- Created a responsive and intuitive user interface optimized for desktop and mobile devices.
+- Deployed the frontend and backend on cloud platforms for reliable and scalable access.
+
+🔗 **Live Demo:** https://resumebuilder-atschecker.vercel.app/
+🔗 **GitHub:** https://github.com/mamtakurdia808-code/resume-builder
 
 ---
 
