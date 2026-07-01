@@ -181,6 +181,16 @@ Full-Stack Developer with hands-on experience in developing and maintaining mode
 
 ---
 
+## Community Involvement
+
+### Volunteer Teacher | Seva Sahayog Foundation
+- Completed **30 hours** of community service.
+- Taught school students and assisted them with their learning.
+- Helped create an engaging and supportive learning environment.
+- Strengthened communication, leadership, and teamwork skills.
+
+---
+
 ## CONNECT WITH ME
 
 - LinkedIn: {www.linkedin.com/in/mamta-kurdia808]
