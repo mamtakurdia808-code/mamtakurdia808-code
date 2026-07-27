@@ -1,202 +1,202 @@
-<h1 align="center">Hi 👋, I'm Mamta Kurdia</h1>
-<h3 align="center">Full Stack Developer | BCA Student </h3>
+<h1 align="center">Hi, I'm Mamta Kurdia</h1>
+
+<h3 align="center">
+Full Stack Developer | BCA Student | Building Modern Web Applications & AI-Powered Solutions
+</h3>
 
 <p align="center">
-  Passionate about building scalable web applications, developing secure backend systems, and creating seamless user experiences.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+AI+Powered+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## PROFESSIONAL SUMMARY
+## About Me
 
-Full-Stack Developer with hands-on experience in developing and maintaining modern web applications using React.js, Node.js and Express.js. Experienced in REST API development, JWT authentication, database management, third-party integrations, and application troubleshooting. Strong problem-solving abilities with a passion for building efficient, scalable, and user-centric software solutions.
-
----
-
-## EDUCATION
-
-### Bachelor of Computer Applications (BCA)
-**Pillai College of Arts Commerce and Science** Mumbai University | Panvel | Maharashtra, India
-
-**Expected Graduation:** 2027
+- 🎓 BCA Student at **Pillai College of Arts, Commerce & Science (Mumbai University)**
+- 🌱 Currently learning **Advanced Backend Development, System Design & AI Integrations**
+- 🤖 Passionate about **Full-Stack Development, REST APIs, Databases, and AI Applications**
+- 🚀 Love building real-world projects that solve practical problems.
+- 📍 Mumbai, Maharashtra, India
 
 ---
 
-## TECHNICAL COMPETENCIES
+## Tech Stack
 
-### Frontend Development
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
-- Responsive UI Development
-- Component-Based Architecture
-- API Integration
-- State Management
-- Form Validation
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+### AI & Cloud
+![Groq](https://img.shields.io/badge/Groq-AI-blue?style=for-the-badge)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)
 
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
-- REST API Development
-- Authentication & Authorization
-- JWT Security
-- Middleware Development
-- Error Handling
-
----
-
-## DATABASE TECHNOLOGIES
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-- Database Design & Schema Management
-- SQL Query Writing
-- CRUD Operations
-- Table Relationships & Constraints
-- Query Optimization
-- Data Integrity & Validation
-- Data Retrieval & Manipulation
-- Backend Database Integration
-
----
-
-### API & Integrations
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
-- API Testing
-- Endpoint Validation
-- Telegram Bot Integration
-- Third-Party Service Integration
-
----
-
-### Version Control & Collaboration
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-- Repository Management
-- Branching Strategies
-- Pull Requests
-- Collaborative Development
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+# Professional Experience
 
 ### Software Development Intern
 
-**Technology Stack:** React.js, Node.js, Express.js, PostgreSQL, JWT, Git, GitHub
+**Tech Stack:** React.js • Node.js • Express.js • PostgreSQL • JWT • Git • GitHub
 
-- Developed and maintained frontend and backend application modules.
-- Built responsive interfaces using React.js and Material UI.
-- Designed and integrated RESTful APIs.
-- Implemented JWT-based authentication and authorization.
-- Managed PostgreSQL database operations and data handling.
-- Integrated Telegram-based functionalities and automation workflows.
-- Diagnosed and resolved frontend and backend issues.
-- Collaborated using Git and GitHub version control workflows.
+- Developed responsive frontend interfaces using React.js and Material UI.
+- Built RESTful APIs using Express.js.
+- Implemented secure JWT Authentication & Authorization.
+- Worked extensively with PostgreSQL databases.
+- Integrated Telegram automation features.
+- Collaborated using Git and GitHub workflows.
+- Debugged and optimized frontend and backend modules.
 
 ---
 
-## PROJECTS
+# Featured Projects
+
+## 🤖 ResumeAI — AI Resume Builder & ATS Checker
+
+**Tech Stack**
+
+React • Vite • Node.js • Express.js • PostgreSQL • Groq AI • JWT • Cloudinary
+
+### Features
+
+- 🤖 AI Resume Generation
+- 📄 ATS Resume Analysis
+- ✨ AI Content Improvement
+- 📥 PDF Export
+- 🔐 JWT Authentication
+- ☁️ Cloudinary Image Upload
+- 🎨 Multiple Resume Templates
+- 📱 Responsive UI
+
+🔗 **Live:** https://resumebuilder-atschecker.vercel.app/
+
+🔗 **Repository:** https://github.com/mamtakurdia808-code/resume-builder
+
+---
 
 ## 🌐 Developer Portfolio
 
-**Tech Stack:** React • Vite • JavaScript • HTML5 • CSS3 • Framer Motion • React Icons
+**Tech Stack**
 
-- Designed and developed a modern, fully responsive personal portfolio to showcase my skills, projects, and professional journey.
-- Built reusable React components with a clean and scalable project structure using Vite.
-- Implemented smooth scrolling, interactive animations, and intuitive navigation for an engaging user experience.
-- Showcased featured projects, technical skills, education, and contact information in a visually appealing layout.
-- Optimized for performance, responsiveness, and accessibility across desktop, tablet, and mobile devices.
-- Deployed the application on Vercel for fast and reliable hosting.
+React • Vite • JavaScript • HTML • CSS • Framer Motion
 
-🔗 **Live Demo:** https://mamtakurdia-portfolio.vercel.app
-🔗 **GitHub:** https://github.com/mamtakurdia808-code/MyPortfolio
+### Features
 
----
+- Responsive Design
+- Smooth Animations
+- Modern UI
+- Project Showcase
+- Contact Section
+- Optimized Performance
 
-## 📄 ResumeAI – AI Resume Builder & ATS Resume Checker
+🔗 **Live:** https://mamtakurdia-portfolio.vercel.app
 
-**Tech Stack:** React • Vite • Node.js • Express.js • MongoDB • JWT • Cloudinary • Groq AI • HTML5 • CSS3 • JavaScript
-
-- Developed a full-stack AI-powered resume builder that enables users to create, edit, manage, and download professional resumes.
-- Integrated AI using Groq to provide intelligent content suggestions and perform ATS-friendly resume analysis with actionable feedback.
-- Implemented secure user authentication and authorization using JWT to protect user data and personalize the experience.
-- Built dynamic resume templates with real-time preview and PDF download functionality.
-- Enabled image uploads and cloud storage using Cloudinary for profile pictures and resume assets.
-- Designed RESTful APIs with Express.js and MongoDB for efficient data management and seamless communication between the frontend and backend.
-- Created a responsive and intuitive user interface optimized for desktop and mobile devices.
-- Deployed the frontend and backend on cloud platforms for reliable and scalable access.
-
-🔗 **Live Demo:** https://resumebuilder-atschecker.vercel.app/
-🔗 **GitHub:** https://github.com/mamtakurdia808-code/resume-builder
+🔗 **Repository:** https://github.com/mamtakurdia808-code/MyPortfolio
 
 ---
 
-### Product Showcase Website
-**Tech Stack:** HTML5 • CSS3 • JavaScript
+## 🛍 Product Showcase Website
 
-- Developed a product-based website as part of academic coursework.
-- Designed product listing pages with detailed product information and navigation.
-- Implemented responsive layouts and interactive user interface components.
-- Focused on frontend development principles and modern web design practices.
+**Tech Stack**
 
-🔗 Live Demo: [(https://product-website-zeta.vercel.app/)]
-🔗 GitHub: [https://github.com/mamtakurdia808-code/Product-Website]
+HTML • CSS • JavaScript
 
-## CURRENT FOCUS
+### Features
 
-- Full-Stack Web Development
-- Backend Architecture
-- REST API Design
-- Database Optimization
-- Software Engineering Best Practices
+- Responsive Design
+- Interactive UI
+- Product Listings
+- Modern Layout
+
+🔗 **Live:** https://product-website-zeta.vercel.app/
+
+🔗 **Repository:** https://github.com/mamtakurdia808-code/Product-Website
 
 ---
 
-## 📊 GITHUB STATS
+# Currently Learning
+
+- Advanced Backend Development
+- PostgreSQL Optimization
+- System Design
+- TypeScript
+- Next.js
+
+---
+
+# Community Involvement
+
+### Volunteer Teacher — Seva Sahayog Foundation
+
+- Completed **30 Hours** of Community Service.
+- Taught school students.
+- Improved communication and leadership skills.
+- Promoted collaborative and engaging learning.
+
+---
+
+# GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamtakurdia808-code&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=mamtakurdia808-code&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mamtakurdia808-code&theme=tokyonight" height="170"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamtakurdia808-code" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamtakurdia808-code&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/mamta-kurdia808">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mamtakurdia808@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mamtakurdia808-code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://mamtakurdia-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamtakurdia808-code&layout=compact" />
+
+⭐ If you like my projects, consider giving them a star!
+
 </p>
-
----
-
-## Community Involvement
-
-### Volunteer Teacher | Seva Sahayog Foundation
-- Completed **30 hours** of community service.
-- Taught school students and assisted them with their learning.
-- Helped create an engaging and supportive learning environment.
-- Strengthened communication, leadership, and teamwork skills.
-
----
-
-## CONNECT WITH ME
-
-- LinkedIn: {www.linkedin.com/in/mamta-kurdia808]
-- GitHub: [https://github.com/mamtakurdia808-code)]
-- Email: [mamtakurdia808@gmail.com]
-
----
-
- *Always learning, building, and improving through code.*
