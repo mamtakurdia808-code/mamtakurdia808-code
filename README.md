@@ -87,9 +87,6 @@ Personal portfolio showcasing my skills, experience and development projects.
   <a href="mailto:mamtakurdia808@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mamtakurdia808-code.github.io">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://mamtakurdia.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
